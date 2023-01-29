@@ -1,2 +1,33 @@
-# dotfiles
-My Personal configuration files for Linux and Windows
+# Dotfiles
+
+My personal configuration files for Linux/Windows
+### Installing
+
+A step by step series of examples that tell you how to get the configs on your system.
+
+# Nvim
+   Copy the files from the "nvim" folder from this repository into your newly created folder.
+### Windows
+
+    Go into "C:\Users\YourUser\AppData\Local" and create an folder named "nvim"
+######
+    Now copy the files from the "nvim" folder of the repository into your newly created "nvim" folder.
+######
+    After starting nvim again the configuration should 
+    start downloading the required packages, and the theme should apply.
+    
+    To update it manually type ":PackerSync"
+
+
+### Linux
+
+    Go into your terminal and make a new "nvim" folder in .config [mkdir .config/nvim]
+######
+    Now copy the files from the "nvim" folder of the repository into your newly created "nvim" folder.
+######
+    After starting nvim again the configuration should 
+    start downloading the required packages, and the theme should apply.
+    
+    To update it manually type ":PackerSync"
+
+
