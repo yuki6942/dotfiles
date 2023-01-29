@@ -3,7 +3,7 @@
 My personal configuration files for Linux/Windows
 ### Installing
 
-A step by step series of examples that tell you how to get the configs on your system.
+A step by step series that tell you how to get my configuration on your system.
 
 # Nvim
    Copy the files from the "nvim" folder from this repository into your newly created folder.
