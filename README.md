@@ -29,5 +29,8 @@ A step by step series that tell you how to get my configuration on your system.
     start downloading the required packages, and the theme should apply.
     
     To update it manually type ":PackerSync"
+---
+[![](https://visitcount.itsvg.in/api?id=yuki6942&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yuki6942) 
