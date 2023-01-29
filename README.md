@@ -29,6 +29,7 @@ A step by step series that tell you how to get my configuration on your system.
     start downloading the required packages, and the theme should apply.
     
     To update it manually type ":PackerSync"
+####  
 ---
 
   ## 💰 You can help me by Donating
